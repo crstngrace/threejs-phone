@@ -1,0 +1,30 @@
+{
+  "name": "threejs-phone",
+  "homepage": "https://crstngrace.github.io/threejs-phone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.56.4",
+    "@react-three/fiber": "^8.10.1",
+    "babel-preset-next": "^1.4.0",
+    "gsap": "^3.11.4",
+    "next": "13.1.5",
+    "next-transpile-modules": "^10.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.57.1",
+    "styled-breakpoints": "^11.1.1",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5",
+    "gh-pages": "^5.0.0"
+  }
+}
